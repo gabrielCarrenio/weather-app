@@ -8,8 +8,8 @@
   gap: 4rem;
 }
 
-/* @media (max-width:375px) {
-  .App{
+/* @media (max-width: 375px) {
+  .App {
     width: 100vh;
     display: flex;
     justify-content: center;

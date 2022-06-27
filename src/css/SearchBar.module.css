@@ -1,7 +1,6 @@
 .container {
   display: flex;
   justify-content: space-between;
-  width: 50vh;
 }
 
 .input {
@@ -9,6 +8,7 @@
   border: 0.1px solid #88878a;
   padding: 0.2rem 0 0.2rem 1rem;
   color: #e9d5ca;
+  margin-right: 1rem;
 }
 
 .input::placeholder {
