@@ -4,11 +4,12 @@
 }
 
 .input {
-  background-color: transparent;
+  background-color: rgba(0, 0, 0, 0.1);
   border: 0.1px solid #88878a;
   padding: 0.2rem 0 0.2rem 1rem;
   color: #e9d5ca;
   margin-right: 1rem;
+  outline: none;
 }
 
 .input::placeholder {

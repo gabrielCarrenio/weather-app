@@ -9,6 +9,7 @@ export default function Cards(props) {
         {cities.map((c) => {
           return (
             <Card
+              key={c.id}
               max={c.max}
               min={c.min}
               name={c.name}
