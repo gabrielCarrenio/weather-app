@@ -6,10 +6,10 @@ export default function Cards(props) {
   if (cities) {
     return (
       <div className={styles.container}>
-        {cities.map((c) => {
+        {cities.map((c, i) => {
           return (
             <Card
-              key={c.id}
+              key={c.id + i}
               max={c.max}
               min={c.min}
               name={c.name}
