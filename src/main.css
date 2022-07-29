@@ -14,6 +14,7 @@ body {
   background-size: cover;
   background-position: center;
   background-blend-mode: multiply;
+  background-attachment: fixed;
   /*  background: linear-gradient(157deg, rgba(76,172,188,0.32816876750700286) 0%, rgba(0,0,0,0.5130427170868348) 100%); */
 }
 @media (max-width: 375px) {
