@@ -23,6 +23,7 @@
   padding: 0.2rem 1rem;
   color: #e9d5ca;
   font-weight: 300;
+  cursor: pointer;
 }
 
 @media (min-width: 375px) {
